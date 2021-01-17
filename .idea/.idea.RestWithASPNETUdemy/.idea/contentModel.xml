@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_RestWithASPNETUdemy.-288674335.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="RestVerbs" t="IncludeRecursive">
+        <e p="Business" t="Include">
+          <e p="IBooksBusiness.cs" t="Include" />
+          <e p="IPersonBusiness.cs" t="Include" />
+          <e p="Implementations" t="Include">
+            <e p="BooksBusinessImplementation.cs" t="Include" />
+            <e p="PersonBusinessImplementation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="BooksController.cs" t="Include" />
+          <e p="PersonController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Books.cs" t="Include" />
+          <e p="Context" t="Include">
+            <e p="MySQLContext.cs" t="Include" />
+          </e>
+          <e p="Person.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="IBooksRepository.cs" t="Include" />
+          <e p="IPersonRepository.cs" t="Include" />
+          <e p="Implementations" t="Include">
+            <e p="BooksRepositoryImplementation.cs" t="Include" />
+            <e p="PersonRepositoryImplementation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="RestVerbs.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="db" t="Include">
+          <e p="dataset" t="Include">
+            <e p="V2__Populate_Person.sql" t="Include" />
+            <e p="V4__Populate_Books.sql" t="Include" />
+          </e>
+          <e p="migrations" t="Include">
+            <e p="V1__Create_Table_Person.sql" t="Include" />
+            <e p="V3__Create_Table_Books.sql" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="RestVerbs.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="RestWithASPNETUdemy" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="CalculatorController.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RestWithASPNETUdemy.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="RestWithASPNETUdemy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="RestWithASPNETUdemy.sln" t="IncludeFlat" />
+      <e p="RestWithGenerics" t="IncludeRecursive">
+        <e p="Business" t="Include">
+          <e p="IBooksBusiness.cs" t="Include" />
+          <e p="IPersonBusiness.cs" t="Include" />
+          <e p="Implementations" t="Include">
+            <e p="BooksBusinessImplementation.cs" t="Include" />
+            <e p="PersonBusinessImplementation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="BooksController.cs" t="Include" />
+          <e p="PersonController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Base" t="Include">
+            <e p="BaseEntity.cs" t="Include" />
+          </e>
+          <e p="Books.cs" t="Include" />
+          <e p="Context" t="Include">
+            <e p="MySQLContext.cs" t="Include" />
+          </e>
+          <e p="Person.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="Generic" t="Include">
+            <e p="GenericRepository.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="RestWithGenerics.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="db" t="Include">
+          <e p="dataset" t="Include">
+            <e p="V2__Populate_Person.sql" t="Include" />
+            <e p="V4__Populate_Books.sql" t="Include" />
+          </e>
+          <e p="migrations" t="Include">
+            <e p="V1__Create_Table_Person.sql" t="Include" />
+            <e p="V3__Create_Table_Books.sql" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="RestWithGenerics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
